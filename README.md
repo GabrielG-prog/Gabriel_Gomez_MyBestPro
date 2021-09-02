@@ -1,3 +1,3 @@
 # Test MyBestPro
 ***
-Correction du fichier html et css
+Correction des fichiers html et css
